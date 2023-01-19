@@ -13,7 +13,7 @@ A note taking app made using follwing technologies:
 # Screenshots
 
 ### Default Look of app
-<img src="https://github.com/abhinavkr2108/NoteSpot/blob/master/app/src/main/res/screenshot/addnote.png" alt="drawing" width="200"/>
+<img src="https://github.com/abhinavkr2108/NoteSpot/blob/master/app/src/main/res/screenshot/default.png" alt="drawing" width="200"/>
 
 ### Add Note 
 <img src="https://github.com/abhinavkr2108/NoteSpot/blob/master/app/src/main/res/screenshot/addnote.png" alt="drawing" width="200"/>
